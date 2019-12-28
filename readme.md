@@ -23,5 +23,5 @@ How to start
         "firstName":"Akshay",
         "lastName":"Thakur",
         "password":"12345678",
-        "email":"akthakur4749@"
+        "email":"akthakur4749@gmail.com"
     }
